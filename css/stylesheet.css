@@ -1,0 +1,26 @@
+.masthead h2 {
+    font-size: 50px;
+}
+
+@media (max-width: 992px) {
+    .masthead h2 {
+        font-size: 30px;
+    }
+}
+
+.avatar-nav {
+    display: block;
+    border-radius: 50%;
+    width: 90px;
+    padding: 0.45rem 1rem;
+}
+
+.avatar-card {
+    border-radius: 50%;
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+.staff-section .mb-md-0{
+    margin-bottom: 1rem !important;
+}
