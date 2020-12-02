@@ -1,9 +1,9 @@
 {
-  "name": "disconnect-website",
+  "name": "disconnect-master-website",
   "version": "1.0.0",
-  "description": "Disconnect Web",
+  "description": "Disconnect Master Web",
   "main": "index.js",
-  "repository": "https://github.com/edisonlee55/network.edisonlee55.com.git",
+  "repository": "https://github.com/edisonlee55/xn--lfv405c.com.git",
   "author": "Edison Lee <edisonlee@edisonlee55.com>",
   "license": "MIT"
 }
